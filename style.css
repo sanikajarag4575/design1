@@ -260,9 +260,10 @@
             #table1{
                 border: 2px solid black;
                 height: 90px;
+                width: 700px;
                 margin-right: 100px;
                 align-self: self-start;
-                padding-left: 80px;
+                padding-left: 130px;
                 margin: 9px;
                 background-color: rgba(10, 1, 16, 0.951);
 
@@ -273,7 +274,7 @@
                 height: 90px;
                 padding-left: 20px;
                 margin: 9px;
-                width: 1000px;
+                width: 900px;
                 margin-right: 50px;
                 background-color: rgba(116, 113, 113, 0.348);
                 
@@ -284,7 +285,7 @@
                 height: 80px;
                 padding-left: 20px;
                 margin: 9px;
-                width: 1000px;
+                width: 900px;
                 margin-right: 50px;
                 background-color: rgba(116, 113, 113, 0.348);
                 
@@ -308,7 +309,7 @@
                 height: 90px;
                 padding-left: 20px;
                 margin: 9px;
-                width: 1000px;
+                width: 900px;
                 margin-right: 50px;
                 background-color: rgba(116, 113, 113, 0.348);
                 
@@ -319,7 +320,7 @@
                 border: 2px solid black;
                 height: 90px;
                 padding-left: 20px;
-                width: 1000px;
+                width: 900px;
                 margin: 9px;
                 margin-right: 50px;
                 background-color: rgba(116, 113, 113, 0.348);
@@ -331,7 +332,7 @@
                 height: 90px;
                 padding-left: 20px;
                 margin: 9px;
-                width: 1000px;
+                width: 900px;
                 margin-right: 50px;
                 background-color: rgba(116, 113, 113, 0.348);
                 
@@ -343,7 +344,7 @@
                 height: 90px;
                 margin: 9px;
                 padding-left: 20px;
-                width: 1000px;
+                width: 900px;
                 margin-right: 50px;
                 background-color: rgba(116, 113, 113, 0.348);
                 
