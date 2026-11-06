@@ -8,6 +8,10 @@
                 background-repeat: no-repeat;
                 /* box-shadow: 9px 5px 10px; */
             }
+            #maincont{
+                height: 100vw;
+                width: 100vw;
+            }
             #box1{
                 height: 100px;
                 width: 300px;
